@@ -1,0 +1,4 @@
+C:\Users\andre\OneDrive\Documents\CSC 3760 Assembly Language\MasterProjectFiles\Console32_Project\Debug\Console32.exe
+C:\Users\andre\OneDrive\Documents\CSC 3760 Assembly Language\MasterProjectFiles\Console32_Project\Debug\Console32.pdb
+C:\Users\andre\OneDrive\Documents\CSC 3760 Assembly Language\Assignment 02\Debug\Console32.exe
+C:\Users\andre\OneDrive\Documents\CSC 3760 Assembly Language\Assignment 02\Debug\Console32.pdb
